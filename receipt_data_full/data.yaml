@@ -1,0 +1,9 @@
+path: C:/Users/Mariia/Desktop/deep2/receipt_data_full
+
+train: images/train
+val: images/val
+
+names:
+  0: amount
+  1: receiver
+  2: date
